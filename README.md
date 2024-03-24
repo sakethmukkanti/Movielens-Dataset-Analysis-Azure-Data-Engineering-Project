@@ -22,5 +22,8 @@ I have used azure data factory as a orchestration tool for building and executin
 2) Data transformation in azure databricks by calculating Bayesian average ratings and top 5 tags for each movie using spark SQL.
 3) Data analysis and best movie by genre or rating calculations in Azure synapse analytics.
 
-<img src=./images/Azure_Data_Factory_Pipeline.png width="900" height="600">
+</br>
+
+
+<img src=./images/Pipeline.png width="900" height="600">
 

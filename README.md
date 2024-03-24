@@ -25,5 +25,5 @@ I have used azure data factory as a orchestration tool for building and executin
 </br>
 
 
-<img src=./images/Pipeline.png width="900" height="600">
+<img src=./images/Pipeline.png width="700" height="500">
 

@@ -26,4 +26,17 @@ I have used azure data factory as a orchestration tool for building and executin
 
 
 <img src=./images/Pipeline.png width="700" height="500">
+</br>
+</br>
+
+I have used the below mentioned resources in Azure portal for building this movie recommender project end-to-end.
+</br>
+1) Key vault
+2) Synapse workspace
+3) Azure Databricks Service
+4) Data factory (V2)
+5) Storage account
+6) Storage account
+</br>
+<img src=./images/resource_group.png width="700" height="500">
 
